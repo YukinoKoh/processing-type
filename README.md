@@ -5,7 +5,7 @@ This is a type deisgn animated with [Processing](https://processing.org/).
 You can embed those letters by [following](#usage).
 
 
-# Structure
+## Structure
 - processing 
   - `sketch\_[letter].pde`: Processing code of each letter  
 - js 
@@ -18,7 +18,7 @@ You can embed those letters by [following](#usage).
 - `LICENSE`
 - `README.md`
 
-# Usage
+## Usage
 ### To embed  
 1. Put `sketch\_[letter].pde` under your directory
 
@@ -35,5 +35,5 @@ to embed in your html
 </canvas>
 ```
 
-#License
+## License
 [MIT License](https://choosealicense.com/licenses/mit/) © [Yukino Kohmoto](http://yukinokoh.github.io/portfolio/)
