@@ -15,3 +15,12 @@ a:link{
     color:#8b8b8b;
     text-decoration-line:underline;
 }
+a:visited{
+    color:#8b8b8b;
+}
+a:hover{
+    color:#ababab;
+}
+a:active
+    color:#8b8b8b;
+}
