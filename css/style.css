@@ -1,10 +1,17 @@
-
 body{
-	background-color:#191919;
-}
-.white{
-	color:#ffffff;
+    background-color:#191919;
+    margin:20px;
+    font-family:'Helvetica', Arial, sans-serif;
+    font-weight:lighter;
 }
 .demo{
-	margin-top: 30px;
+    margin-top: 30px;
+}
+.desc{
+    margin-top:40px;
+    color:#8b8b8b;
+}
+a:link{
+    color:#8b8b8b;
+    text-decoration-line:underline;
 }
