@@ -20,18 +20,18 @@ You can embed these letter animation by [following](#usage).
 
 ## Usage
 ### To embed  
-1. Put `sketch\_[letter].pde` under your directory
+1. Put `sketch_[letter].pde` under your directory
 
-2. Add `processing\_min.js` in head of your html
+2. Add a pth to `processing_min.js` in head of your html
 ```html
-<script  type="text/javascript" src="js/processing_min.js"></script>
+<script  type="text/javascript" src="[path to processing_min.j]s"></script>
 ```
 
 3. Add canvas object with *data-processing-sources* attribute where you want 
 to embed in your html 
 ```html
 <canvas 
-    data-processing-sources="[path to sketch\_[letter].pde]">
+    data-processing-sources="[path to sketch_[letter].pde]">
 </canvas>
 ```
 
