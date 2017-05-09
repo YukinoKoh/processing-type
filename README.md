@@ -1,8 +1,8 @@
 ![Processing image](img/sample.png)
 
-This is a type deisgn animated with [Processing](https://processing.org/).
+Type deisgn project, animated with [Processing](https://processing.org/), which you can find [here](http://yukinokoh.github.io/processing-type/).
 
-You can embed those letters by [following](#usage).
+You can embed these letter animation by [following](#usage).
 
 
 ## Structure
