@@ -1,5 +1,10 @@
 ![Processing image](img/sample.png)
 
+This is a type deisgn animated with [Processing](https://processing.org/).
+
+You can embed those letters by [following](#usage).
+
+
 # Structure
 - processing 
   - `sketch\_[letter].pde`: Processing code of each letter  
