@@ -6,7 +6,7 @@ color c1 = color(255);
 color c2 = color (80);
 color c3 = color (50);
 color c4 = color (40);
-color bg = color(25);
+color bg = color(30);
 float multiple = 3;
 
 void setup(){
